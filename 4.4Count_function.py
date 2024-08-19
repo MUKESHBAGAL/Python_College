@@ -15,4 +15,3 @@ str1 = input("Enter the string: ")
 sub = input("Enter the sub-string: ")
 
 print(count_non_overlapping(str1, sub))
-
